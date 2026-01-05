@@ -1,0 +1,9 @@
+{
+  "name": "BioBeat - Medical Intelligence Platform",
+  "description": "Enterprise-grade continuous health monitoring platform utilizing AI for early disease detection and predictive vital analysis.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone",
+    "geolocation"
+  ]
+}
